@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <!DOCTYPE html>
+        <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+      
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        
+        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/readable/bootstrap.min.css" rel="stylesheet" integrity="sha384-Li5uVfY2bSkD3WQyiHX8tJd0aMF91rMrQP5aAewFkHkVSTT2TmD2PehZeMmm7aiL" crossorigin="anonymous">
+    
+            <title>BRING IT ALL TOGETHER</title>
+            <h1 align="center">TALIA'S MUSIC PAGE</h1>
+    </head>
+
+            <body>
+                
+                <ol>
+                    <h3>Afrobeats/Soca</h3>
+                    <a href="#RnB"> RnB</a><br />
+                    <a href="#Rap"> Rap</a><br />
+
+                    <li>
+                        <h3 id="Afrobeats/Soca"></h3>
+                        <img width=400 length=400  src="http://static.libsyn.com/p/assets/9/5/3/5/9535fb1e83c775e9/starter-17.jpg"><br>
+                    </li>
+                    <li>
+                        <img width=400 length=400  src="http://machelmontano.com/site/wp-content/uploads/2014/12/01-Mr-Fete-mp3-image-600x598.jpg"><br><br>
+                    </li>
+                    <li>
+                        <img width=400 length=400  src=http://assets.audiomack.com/dj-tickzzy/430e5ff15b93375622a52ca7fbb1dd53.jpeg><br><br>
+                    </li>
+                </ol>
+                
+                <ol>
+                        <br>
+                    
+                    <h3>RnB</h3>
+                <a href="#Afrobeats/Soca"> Afrobeats/Soca</a><br />
+                <a href="#Rap"> Rap</a><br />
+                    
+                    <li>
+                        <h3 id="RnB"></h3>
+                        <img width=400 length=400 src="http://media.vanityfair.com/photos/561d1b04319af15240f9b03f/master/pass/t-rihanna-cover-art-roy-nachum.jpg"><br>
+                    </li>
+                    <li>
+                        <img width=400 length=400 src="https://brentmusicreviews.files.wordpress.com/2014/12/usher-confessions-c2a9-la-face.jpg"><br>
+                    </li> 
+                    <li>
+                        <img width=400 length=400 src="https://upload.wikimedia.org/wikipedia/en/8/81/Part_iii.jpg"><br><br><br>
+                    </li>
+                </ol>
+                
+                <ol>
+                    <h3>Rap</h3>
+                <a href="#Afrobeats/Soca"> Afrobeats/Soca</a><br />
+                <a href="#RnB">RnB</a><br />    
+                    <li>
+                        <h3 id="Rap"></h3>
+                        <img width=400 length=400 src="https://i.scdn.co/image/01bb4663dcfa3b8b4fd405ef493dfe447805aa57"><br>
+                    </li>
+                    <li>
+                        <img width=400 length=400 src="http://images.rapgenius.com/0353d2f8948ef30eaa9b296a15cf5907.1000x1000x1.jpg"><br>
+                    </li>
+                    <li>
+                        <img width=400 length=400 src="http://56ab8f3ba9bdd574fe36-43c4012dcbf8f9f0863b6d682e183a2e.r94.cf1.rackcdn.com/2013/06/yeezus-3.png">
+                    </li>
+                
+                </ol>
+                
+            </body>
+    </html>
